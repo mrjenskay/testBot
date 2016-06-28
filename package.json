@@ -1,0 +1,20 @@
+{
+  "name": "testbot",
+  "version": "0.0.1",
+  "description": "Test bot for testing",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "XXIV",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjenskay/testBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrjenskay/testBot/issues"
+  },
+  "homepage": "https://github.com/mrjenskay/testBot#readme"
+}
